@@ -17,4 +17,4 @@ Organización de archivos
 - Ingresas a GitHub.
 - Buscas el repositorio.
 - Copias el repositorio.
--Clonas el repositorio en el editor que prefieras.
+- Clonas el repositorio en el editor que prefieras.
